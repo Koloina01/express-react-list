@@ -1,5 +1,6 @@
 
 import ListOfCharacters from './components/ListOfCharacters';
+import Button from './components/Button';
 
 
 function App() {
