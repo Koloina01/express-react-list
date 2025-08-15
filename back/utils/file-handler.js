@@ -12,4 +12,4 @@ const writeData = (filename, data) => {
   fs.writeFileSync(filepath, JSON.stringify(data, null, 2));
 }
 
-export { readData, writeData }
+export { readData, writeData };
